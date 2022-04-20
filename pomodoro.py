@@ -1,4 +1,4 @@
-#Bór Milán 2020
+#Bór Milán - 2020
 
 import pygame
 import time
