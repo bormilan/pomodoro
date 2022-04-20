@@ -1,3 +1,5 @@
+#Bór Milán 2020
+
 import pygame
 import time
 import pygame.gfxdraw
